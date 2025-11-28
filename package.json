@@ -36,7 +36,7 @@
 		"iterator"
 	],
 	"dependencies": {
-		"clean-stack": "^5.2.0",
+		"clean-stack": "^6.0.0",
 		"indent-string": "^5.0.0"
 	},
 	"devDependencies": {
